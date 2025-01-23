@@ -1,0 +1,3 @@
+C:/Users/ibrahim/OneDrive/Desktop/Book/BookMyDoc/android/app/.cxx/Debug/1bu2y2j1/x86_64/CMakeFiles/appmodules.dir
+C:/Users/ibrahim/OneDrive/Desktop/Book/BookMyDoc/android/app/.cxx/Debug/1bu2y2j1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ibrahim/OneDrive/Desktop/Book/BookMyDoc/android/app/.cxx/Debug/1bu2y2j1/x86_64/CMakeFiles/rebuild_cache.dir

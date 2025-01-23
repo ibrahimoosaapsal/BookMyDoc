@@ -1,0 +1,5 @@
+# ninja log v5
+3	33	0	C:/Users/ibrahim/OneDrive/Desktop/Book/BookMyDoc/android/app/.cxx/Debug/1bu2y2j1/armeabi-v7a/CMakeFiles/cmake.verify_globs	f1fa37da79123b20
+1	4290	7592968958751720	CMakeFiles/appmodules.dir/C_/Users/ibrahim/OneDrive/Desktop/Book/BookMyDoc/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	b62fd606a95e5446
+5	4710	7592968962889964	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7f73b433ac4c471c
+4711	4827	7592968964179430	C:/Users/ibrahim/OneDrive/Desktop/Book/BookMyDoc/android/app/build/intermediates/cxx/Debug/1bu2y2j1/obj/armeabi-v7a/libappmodules.so	36d252875310e60
